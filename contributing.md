@@ -5,8 +5,7 @@ Please note that this project follows the [Contributor Covenant Code of Conduct]
 ## Table of Contents
 
 - [Adding to this list](#adding-to-this-list)
-- [Creating your own awesome list](#creating-your-own-awesome-list)
-- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
+- [If you are new to GitHub](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
 
 ## Adding to this list
