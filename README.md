@@ -19,8 +19,8 @@ Have something to add to the list? Great! Please read the [contribution guidelin
 
 ## Corporate Initiatives
 
-- [Google](https://www.google.com/accessibility/)
 - [Facebook](https://www.facebook.com/help/141636465971794/)
+- [Google](https://www.google.com/accessibility/)
 - [Yahoo](https://accessibility.yahoo.com/)
 
 ## National/Federal Governments
@@ -31,7 +31,6 @@ Have something to add to the list? Great! Please read the [contribution guidelin
 ## State Governments
 
 - [Arizona](http://az.gov/policy/accessibility)
-
 
 ## Universities
 
