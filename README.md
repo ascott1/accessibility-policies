@@ -14,7 +14,6 @@ Have something to add to the list? Great! Please read the [contribution guidelin
 - [Goodwill Industries](https://www.goodwill.org/uncategorized/accessibility-policy/)
 - [Hiscox](https://www.hiscox.co.uk/accessibility/)
 - [Liberty Mutual](https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240009265998)
-
 - [Lloyds Bank](https://www.lloydsbank.com/accessibility/policy.asp)
 - [Travelocity](https://www.travelocity.com/p/info-other/web-accessibility-policy)
 
